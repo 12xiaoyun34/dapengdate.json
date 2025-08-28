@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "电子书",
+    "description": "这是一本非常有价值的电子书",
+    "price": 50,
+    "url": "https://example.com/ebook.pdf",
+    "icon": "fas fa-book"
+  },
+  {
+    "id": 2,
+    "name": "视频课程",
+    "description": "学习编程的完整视频课程",
+    "price": 100,
+    "url": "https://example.com/course.zip",
+    "icon": "fas fa-video"
+  }
+]
