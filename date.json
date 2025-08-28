@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "电子书",
-    "description": "这是一本非常有价值的电子书",
-    "price": 50,
-    "url": "https://example.com/ebook.pdf",
+    "name": "Actions&Stuff",
+    "description": "我的世界基岩版可用的极致动作优化模组",
+    "price": 3,
+    "url": "https://zenlayer.dl.sourceforge.net/project/edex-ui.mirror/v2.2.8/eDEX-UI-Windows-x64.exe?viasf=1",
     "icon": "fas fa-book"
   },
   {
@@ -15,4 +15,5 @@
     "url": "https://example.com/course.zip",
     "icon": "fas fa-video"
   }
+
 ]
